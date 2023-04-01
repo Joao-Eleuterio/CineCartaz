@@ -1,7 +1,7 @@
 # CineCartaz
 
 João Eleutério - a22007237
-Mário Silva - 22007457
+Mário Silva - a22007457
 
 
 # ScreenShots ecrãs
